@@ -1,5 +1,17 @@
-# Example Express Static Content Project
+# Celebrity Feud Netork
 
-A simple demo application that shows how to use the static middleware in Express. Not that this example doeesn't use the latest version of Express.
+Visualizing celebrity twitter beef
 
-This code goes along with the tutorial on the Modulus Blog about [static content with Express](http://blog.modulus.io/nodejs-and-express-static-content).
+To run the code, install all the dependency(node and npm are required): 
+
+<code>npm install</code>
+
+Run the code: 
+
+<code>node app.js</code>
+
+The page is served at port 3000
+
+Non-node way:
+
+Load the public/index.html in safari, since chrome has an issues of cross origin request
