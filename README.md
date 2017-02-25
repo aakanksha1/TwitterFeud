@@ -1,8 +1,8 @@
 # Celebrity Feud Netork
 
-Visualizing celebrity twitter beef
+Visualizing the latest celebrity feuds
 
-To run the code, install all the dependency(node and npm are required): 
+To run the code, install all the dependencies (node and npm are required): 
 
 <code>npm install</code>
 
@@ -12,6 +12,6 @@ Run the code:
 
 The page is served at port 3000
 
-Non-node way:
 
-Load the public/index.html in safari, since chrome has an issues of cross origin request
+Non-node way:
+Load the public/index.html in safari or firefox, since chrome has an issue of cross origin request
